@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>472741148070-iict90fsn4s68dju1rnrsttjb2334d12.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.472741148070-iict90fsn4s68dju1rnrsttjb2334d12</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrd-jYhOIrMyVUHg1LxfdVEk1Jwk8RfiA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>472741148070</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.karmamgmt.iwechecked</string>
+	<key>PROJECT_ID</key>
+	<string>wechecked-apk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wechecked-apk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:472741148070:ios:cd4f5e8b82f8229be20b67</string>
+</dict>
+</plist>

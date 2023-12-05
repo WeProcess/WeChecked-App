@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472741148070",
+    "project_id": "wechecked-apk",
+    "storage_bucket": "wechecked-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472741148070:android:9d0cd4a8b92365c4e20b67",
+        "android_client_info": {
+          "package_name": "com.karmamgmt.wechecked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472741148070-ajnq7ropjuupbs2s5mjiflg1c3i2t1no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYXdB1S2vGPS10j4x7xfPt7DfT3T3ORE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472741148070-ajnq7ropjuupbs2s5mjiflg1c3i2t1no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
